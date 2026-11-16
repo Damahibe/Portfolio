@@ -1,0 +1,2 @@
+PORTAFOLIO DE DANIEL (VERSIÓN ORIGINAL DEL PRIMER CORTE)
+Esta carpeta contiene la versión original pura construida en HTML y CSS del primer corte evaluativo, preservada como respaldo y comparación.
